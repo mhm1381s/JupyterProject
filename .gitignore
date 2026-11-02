@@ -10,7 +10,7 @@
 venv/
 env/
 
-# Common dev folders (good to have)
+# Common dev folders
 __pycache__/
 *.pyc
 .DS_Store
