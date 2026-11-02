@@ -1,0 +1,17 @@
+date,book_title,genre,author,price,quantity_sold,store_location
+2024-01-15,The Great Gatsby,Classic,F. Scott Fitzgerald,12.99,5,New York
+2024-01-15,To Kill a Mockingbird,Classic,Harper Lee,10.99,3,New York
+2024-01-16,Harry Potter and the Sorcerer's Stone,Fantasy,J.K. Rowling,14.99,8,Chicago
+2024-01-16,1984,Dystopian,George Orwell,9.99,4,Chicago
+2024-01-17,Pride and Prejudice,Classic,Jane Austen,11.99,6,Los Angeles
+2024-01-17,The Hobbit,Fantasy,J.R.R. Tolkien,13.99,7,Los Angeles
+2024-01-18,The Catcher in the Rye,Classic,J.D. Salinger,10.99,2,New York
+2024-01-18,Animal Farm,Dystopian,George Orwell,8.99,5,Chicago
+2024-01-19,The Lord of the Rings,Fantasy,J.R.R. Tolkien,16.99,9,Los Angeles
+2024-01-19,Brave New World,Dystopian,Aldous Huxley,9.99,3,New York
+2024-01-20,The Chronicles of Narnia,Fantasy,C.S. Lewis,12.99,6,Chicago
+2024-01-20,Frankenstein,Horror,Mary Shelley,10.99,4,Los Angeles
+2024-01-21,The Shining,Horror,Stephen King,13.99,5,New York
+2024-01-21,The Da Vinci Code,Thriller,Dan Brown,11.99,8,Chicago
+2024-01-22,Gone Girl,Thriller,Gillian Flynn,10.99,7,Los Angeles
+2024-01-22,The Girl on the Train,Thriller,Paula Hawkins,9.99,6,New York
